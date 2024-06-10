@@ -1,0 +1,1 @@
+The matrix library was implemented in this project.h, namely functions such as create_matrix, remove_matrix, eq_matrix, sum_matrix, sub_matrix, mult_matrix, mult_number, transpose, determinant, calc_complements, inverse_matrix.
